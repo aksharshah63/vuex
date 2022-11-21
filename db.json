@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "title": "Officiis enim vel se",
+      "price": "Rerum eligendi sint ",
+      "id": 10
+    },
+    {
+      "title": "Excepteur beatae con",
+      "price": "Quas doloribus nostr",
+      "id": 11
+    },
+    {
+      "title": "Corporis et ducimus",
+      "price": "Quas nihil minim ver",
+      "id": 12
+    }
+  ]
+}
